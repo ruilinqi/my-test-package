@@ -1,0 +1,19 @@
+{
+  "name": "@rqi/my-test-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruilinqi/my-test-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruilinqi/my-test-package/issues"
+  },
+  "homepage": "https://github.com/ruilinqi/my-test-package#readme",
+  "description": ""
+}
